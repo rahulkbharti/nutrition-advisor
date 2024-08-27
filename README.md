@@ -32,8 +32,9 @@ AI-Nutritionist-App is an intelligent application designed to provide personaliz
 2. Follow the on-screen instructions to input your dietary information and receive personalized nutrition advice.
 
 ## Output Screenshots
-    ![Image](outputs/Screenshot%202024-08-27%20102837.png)
-    ![Image](outputs/Screenshot%202024-08-27%20102921.png)
+![Image](outputs/Screenshot%202024-08-27%20102837.png)
+    
+![Image](outputs/Screenshot%202024-08-27%20102921.png)
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
