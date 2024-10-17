@@ -1,46 +1,66 @@
-﻿# AI-Nutritionist-App
+# Personalized Nutrition Advisor
 
-## Description
-AI-Nutritionist-App is an intelligent application designed to provide personalized nutrition advice based on user input. It leverages machine learning algorithms to analyze dietary habits and suggest improvements for a healthier lifestyle.
+This is a Streamlit application that provides personalized nutrition advice based on user input. 
 
 ## Features
-- Personalized nutrition plans
-- Dietary habit analysis
-- Meal recommendations
-- Progress tracking
-- Integration with fitness apps
+- Input dietary information
+- Receive personalized nutrition suggestions
+- Simple and user-friendly interface
+
+## Prerequisites
+
+- Python 3.x
+- Streamlit
+- Any necessary API for nutrition advice
 
 ## Installation
+
 1. Clone the repository:
-    ```sh
-    git clone https://github.com/yourusername/AI-Nutritionist-App.git
+
+    ```bash
+    git clone https://github.com/your-repo/nutrition-advisor.git
+    cd nutrition-advisor
     ```
-2. Navigate to the project directory:
-    ```sh
-    cd AI-Nutritionist-App
+
+2. Create a virtual environment and activate it:
+
+    ```bash
+    python -m venv venv
+    source venv/bin/activate  # For Linux/Mac
+    venv\Scripts\activate     # For Windows
     ```
+
 3. Install the required dependencies:
-    ```sh
+
+    ```bash
     pip install -r requirements.txt
     ```
 
-## Usage
-1. Run the application:
-    ```sh
-    streamlit run app.py 
+## API Key Setup
+
+To use this app, you need an API key for personalized nutrition advice. Follow these steps:
+
+1. Open the `config.py` file.
+2. Replace the placeholder with your API key:
+
+    ```python
+    API_KEY = "your-api-key-here"
     ```
+
+## Usage
+
+1. Run the application:
+
+    ```bash
+    streamlit run app.py
+    ```
+
 2. Follow the on-screen instructions to input your dietary information and receive personalized nutrition advice.
 
-## Output Screenshots
-![Image](outputs/Screenshot%202024-08-27%20102837.png)
-    
-![Image](outputs/Screenshot%202024-08-27%20102921.png)
-
 ## Contributing
-Contributions are welcome! Please fork the repository and submit a pull request.
+
+Feel free to submit a pull request or report any issues!
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Contact Information
-For any inquiries or feedback, please contact [rk2255p@gmail.com](mailto:rk2255p@gmail.com).
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
