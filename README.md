@@ -40,7 +40,7 @@ This is a Streamlit application that provides personalized nutrition advice base
 
 To use this app, you need an API key for personalized nutrition advice. Follow these steps:
 
-1. Open the `config.py` file.
+1. Open the `.env` file.
 2. Replace the placeholder with your API key:
 
     ```python
