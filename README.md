@@ -57,6 +57,10 @@ To use this app, you need an API key for personalized nutrition advice. Follow t
 
 2. Follow the on-screen instructions to input your dietary information and receive personalized nutrition advice.
 
+## Output 
+![output1](./outputs/Screenshot%202024-08-27%20102837.png)
+![output2](./outputs/Screenshot%202024-08-27%20102921.png)
+
 ## Contributing
 
 Feel free to submit a pull request or report any issues!
