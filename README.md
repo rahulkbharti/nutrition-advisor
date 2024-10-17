@@ -18,8 +18,8 @@ This is a Streamlit application that provides personalized nutrition advice base
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/rahulbharti5/AI-Nutritionist-App.git
-    cd AI-Nutritionist-App
+    git clone https://github.com/your-repo/nutrition-advisor.git
+    cd nutrition-advisor
     ```
 
 2. Create a virtual environment and activate it:
